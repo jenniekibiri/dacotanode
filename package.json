@@ -2,7 +2,7 @@
   "name": "dacotanode",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "engines": {
     "node": "5.0.0",
     "npm": "4.6.1"
