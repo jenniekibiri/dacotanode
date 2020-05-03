@@ -854,7 +854,7 @@ section {
 	left: 0;
 	width: 100%;
 	text-align: center;
-	background: rgba(35, 35, 35, 0.63);
+	background: rgba(248, 247, 247, 0.1);
 	padding-bottom: 9px;
 	padding-top: 2px;
 }
@@ -900,7 +900,7 @@ section {
 }
 
 .products_container {
-	margin-top: 98px;
+	margin-top: 30px;
 }
 
 .product_image {
@@ -1221,7 +1221,7 @@ section {
 	padding-left: 44px;
 	padding-right: 44px;
 	padding-bottom: 42px;
-	margin-top: 99px;
+	margin-top: 50px;
 }
 
 .gallery_item a {
